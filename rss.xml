@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[martingauna]]></title>
-        <description><![CDATA[martingauna]]></description>
+        <title><![CDATA[Martín Gauna]]></title>
+        <description><![CDATA[Martín Gauna]]></description>
         <link>https://thegrid.ai/martingauna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 14:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 15:05:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/martingauna/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/martingauna/acerca-de-martin/index.html</link>
             <guid isPermaLink="false">cc06ff3a-b28e-4028-b0fb-e3e347e3f140</guid>
             <pubDate>Wed, 30 Mar 2016 14:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Zumba Fitness</p>]]></description>
+            <link>https://thegrid.ai/martingauna/zumba-fitness/index.html</link>
+            <guid isPermaLink="false">11fccb5e-1668-460e-bca1-e6aaf7cd6289</guid>
+            <pubDate>Wed, 30 Mar 2016 15:04:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
