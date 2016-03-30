@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Zumba Fitness
-datePublished: '2016-03-30T15:13:53.000Z'
-dateModified: '2016-03-30T15:13:20.880Z'
+datePublished: '2016-03-30T15:50:37.216Z'
+dateModified: '2016-03-30T15:50:27.248Z'
 title: Zumba con Martín
 author: []
 sourcePath: _posts/2016-03-30-zumba-fitness.md
@@ -31,3 +31,4 @@ Sin duda tienes que darte una oportunidad y probarlo. Hasta este momento no sab�
 ¿A qué estás esperando? ¡Únete a la fiesta! 
 
 http://martinalvarezgauna.zumba.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3de8045b-4161-4b2c-aeb0-22d8c7e9c19c.png)
