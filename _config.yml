@@ -1,0 +1,28 @@
+name: martingauna
+favicon: null
+layout_spectrum: 0.4716991917230189
+typography_spectrum: 0.7856309120543301
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.025551825761795044
+  lightness: 0.7602741727605462
+  saturation: 0.6600651235785335
+  rhythmicContrast: 0.17564477864652872
+purpose: []
