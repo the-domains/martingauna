@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Zumba Fitness
-datePublished: '2016-03-30T15:04:50.041Z'
-dateModified: '2016-03-30T15:04:27.182Z'
-title: ''
+datePublished: '2016-03-30T15:13:53.000Z'
+dateModified: '2016-03-30T15:13:20.880Z'
+title: Zumba con Martín
 author: []
+sourcePath: _posts/2016-03-30-zumba-fitness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-zumba-fitness.md
-published: true
 url: zumba-fitness/index.html
 _type: Article
 
