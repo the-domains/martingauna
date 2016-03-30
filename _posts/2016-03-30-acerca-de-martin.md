@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Acerca de Martín...
-datePublished: '2016-03-30T15:16:46.475Z'
-dateModified: '2016-03-30T15:16:21.827Z'
+description: "De padres artistas, Martín siempre tuvo inquietud y gusto por el arte. En Argentina se gradúa como maestro en Artes Visuales y será cuando llegue a Madrid un año más tarde, el momento en el que sienta una inquietud más fuerte por las artes escénicas y apostar por ello.\_"
+datePublished: '2016-03-30T15:28:24.402Z'
+dateModified: '2016-03-30T15:28:14.127Z'
 title: Este soy yo...
 author: []
 sourcePath: _posts/2016-03-30-acerca-de-martin.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca8a343-4bc0-4a25-a9c8-f4dd24d88f5e.jpg)
-
-Acerca de Martín...
 
 De padres artistas, Martín siempre tuvo inquietud y gusto por el arte. En Argentina se gradúa como maestro en Artes Visuales y será cuando llegue a Madrid un año más tarde, el momento en el que sienta una inquietud más fuerte por las artes escénicas y apostar por ello. 
 
