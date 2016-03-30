@@ -4,7 +4,7 @@
         <description><![CDATA[Martín Gauna]]></description>
         <link>https://thegrid.ai/martingauna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 15:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 15:14:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/martingauna/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Wed, 30 Mar 2016 15:08:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Zumba Fitness</p>]]></description>
+            <title><![CDATA[Zumba con Martín]]></title>
+            <description><![CDATA[<article><h1>Zumba con Martín</h1><p>Zumba Fitness</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/debb9a71-206a-4e52-ab1f-12584083ad8b.jpg"></article>]]></description>
             <link>https://thegrid.ai/martingauna/zumba-fitness/index.html</link>
             <guid isPermaLink="false">11fccb5e-1668-460e-bca1-e6aaf7cd6289</guid>
-            <pubDate>Wed, 30 Mar 2016 15:04:50 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 15:13:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
