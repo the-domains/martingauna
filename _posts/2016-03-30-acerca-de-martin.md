@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "De padres artistas, Martín siempre tuvo inquietud y gusto por el arte. En Argentina se gradúa como maestro en Artes Visuales y será cuando llegue a Madrid un año más tarde, el momento en el que sienta una inquietud más fuerte por las artes escénicas y apostar por ello.\_"
-datePublished: '2016-03-30T15:28:24.402Z'
-dateModified: '2016-03-30T15:28:14.127Z'
+description: "Decide ingresar en el Estudio Corazza para el actor donde completa su formación en Arte Dramático. Inquieto y también con un gran gusto por el género musical, se forma en canto con Miguel Tubía, Mariano Detry, Jeremy Powel y Jose Masegosa, pasando también por el Estudio de Arnold Taraborrelli.\_"
+datePublished: '2016-03-30T15:45:11.105Z'
+dateModified: '2016-03-30T15:44:52.194Z'
 title: Este soy yo...
 author: []
 sourcePath: _posts/2016-03-30-acerca-de-martin.md
